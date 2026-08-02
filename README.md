@@ -114,6 +114,16 @@ Or run without installing:
 mint run zonble/zago notes.txt
 ```
 
+### Arch Linux
+
+You can install `zago-bin` from the Arch User Repository (AUR) by building from the packaging source:
+
+```bash
+git clone https://aur.archlinux.org/zago-bin.git
+cd zago-bin
+makepkg -si
+```
+
 Build from source:
 
 ```bash
