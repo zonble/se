@@ -124,6 +124,8 @@ cd zago-bin
 makepkg -si
 ```
 
+This package installs a precompiled static binary. It is maintained and automatically updated to track upstream releases via GitHub Actions workflows at [cawa0505/aur-zago](https://github.com/cawa0505/aur-zago).
+
 Build from source:
 
 ```bash
